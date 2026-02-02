@@ -1,0 +1,14 @@
+Input #0, mp3, from 'Mister Valentine - Heiress 👑.mp3':
+  Metadata:
+    album           : Alien Princess
+    artist          : Mister Valentine
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    title           : 2808
+    encoder         : Lavf62.6.103
+  Duration: 00:05:06.82, start: 0.023021, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 128 kb/s, start 0.023021
+    Metadata:
+      encoder         : Lavc62.21
+PS C:\Users\Owner\Music\Mister Valentine - Alien Princess>

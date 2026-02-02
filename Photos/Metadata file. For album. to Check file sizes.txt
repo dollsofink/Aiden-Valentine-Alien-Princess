@@ -1,0 +1,27 @@
+PS C:\Users\Owner> cd "C:\Users\Owner\Music\Mister Valentine - Alien Princess"
+PS C:\Users\Owner\Music\Mister Valentine - Alien Princess> dir
+
+
+    Directory: C:\Users\Owner\Music\Mister Valentine - Alien Princess
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         1/21/2026  11:38 AM                Assets
+-a----         12/7/2025  12:31 AM        1927037 Aiden Valentine - Chemical Headz [895221853].opus
+-a----         12/7/2025  12:33 AM        3914348 Aiden Valentine - Chemical Headz.mp3
+-a----          1/8/2026  10:08 AM          17564 Alien Princess by Aiden Valentine.torrent
+-a----         12/8/2025   2:45 AM         162421 eminem-tts-file.wav
+-a----         12/7/2025   1:03 AM       44167518 Mister Valentine - B-Word.wav
+-a----         12/7/2025   2:06 PM        4877582 Mister Valentine - Bad Habits.mp3
+-a----         12/7/2025   1:05 AM       43376744 Mister Valentine - Dames Jeans.wav
+-a----        12/14/2025   1:22 AM        4911808 Mister Valentine - Heiress 👑.mp3
+-a----         12/6/2025  11:21 PM       58908774 Mister Valentine - Heiress 👑.wav
+-a----         12/8/2025   6:03 PM        6015476 Mister Valentine - Plastic Clad in Elastic v10.mp3
+-a----         12/8/2025   2:05 AM        8214986 Mister Valentine - Skimpy.mp3
+-a----        12/11/2025   5:30 PM        1695172 TODO -- Mister Valentine - Anastasia Valentine - DistroKid Release
+                                                  #19994502554 on 12-15-2025.mhtml
+-a----          1/8/2026  10:00 AM            267 👽.txt
+
+
+PS C:\Users\Owner\Music\Mister Valentine - Alien Princess>
